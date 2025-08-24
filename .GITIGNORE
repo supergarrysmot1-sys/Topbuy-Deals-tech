@@ -1,0 +1,30 @@
+
+---
+
+📌 **.gitignore (Flutter loyihasi uchun)**
+```gitignore
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+
+# VS Code
+.vscode/
+
+# Android
+*.apk
+*.aar
+*.iml
+.gradle/
+local.properties
+
+# iOS
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/.generated/
+ios/Flutter/
+
+# Env
+.env
+*.log
